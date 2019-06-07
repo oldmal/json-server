@@ -10,5 +10,25 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "roulette": {
+    "meal": {
+      "discount": "",
+      "flight": "PQ881",
+      "fromTo": "IEV-VAR",
+      "giftName": "-5% NEXT BOOKING DISCOUNT",
+      "id": 9,
+      "userName": "Dmytro Oliinyk",
+      "type": "meal"
+    },
+    "discount": {
+      "discount": "ecologist.avtomatizator@gmail.com",
+      "flight": "PQ881",
+      "fromTo": "IEV-VAR",
+      "giftName": "-5% NEXT BOOKING DISCOUNT",
+      "id": 9,
+      "userName": "Dmytro Oliinyk",
+      "type": "meal"
+    },
+  },
 }
