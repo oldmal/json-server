@@ -14,8 +14,8 @@
   "roulette-meal": {
     "discount": "",
     "flight": "PQ881",
-    "fromTo": "IEV-VAR",
-    "giftName": "-5% NEXT BOOKING DISCOUNT",
+    "fromTo": "IEV-BAR",
+    "giftName": "CHICKEN ROLL",
     "id": 9,
     "userName": "Dmytro Oliinyk",
     "type": "meal"
