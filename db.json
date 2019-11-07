@@ -28,5 +28,60 @@
     "id": 9,
     "userName": "Dmytro Oliinyk",
     "type": "meal"
-  }
+  },
+   "change-flight": {
+        "flights": [
+            {
+                "id": "e9-a7w",
+                "fligth": "Туда (14 июн. вт) KBP - NYC (QP734)",
+                // для связанных рейсов
+                "is-related": "false"
+            },
+            {
+                "id": "r7-33d",
+                "fligth": "Обратно (24 июн. вт) KBP - NYC (QP734)",
+                "is-related": "false"
+            }
+        ],
+        "tourists": [
+            {
+                "pax-idx": "0",
+                "tourist": "Dmytro Oliinyk + Infant Oliinyk"
+            },
+            {
+                "pax-idx": "1",
+                "tourist": "Vasia Pupkin"
+            },
+            {
+                "pax-idx": "2",
+                "tourist": "John Wayne"
+            },
+            {
+                "pax-idx": "3",
+                "tourist": "Kim Kardashian"
+            },
+            {
+                "pax-idx": "4",
+                "tourist": "Ozzy Osbourne"
+            }
+        ],
+        "dates": {
+            "flight-dates": ["2019-11-24", "2019-11-27", "2019-11-28", "2019-11-29", "2019-11-30"],
+            "related-dates": [
+                {
+                    "departure": "2019-11-14",
+                    "return": "2019-12-14"
+                },
+                {
+                    "departure": "2019-11-20",
+                    "return": "2019-12-22"
+                },
+                {
+                    "departure": "2019-12-20",
+                    "return": "2019-12-22"
+                }
+            ]
+        }
+    }
+  
 }
