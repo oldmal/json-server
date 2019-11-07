@@ -1,5 +1,6 @@
 # json-server
 мои файлы с json для ajax запросов
+Стучаться нужно в репозиторий json-server, после чего указывать либо db(получим весь файл), либо ключ обьекта, например roulette-meal
 
 # use example
 const runTestFunc = function(interval) {
