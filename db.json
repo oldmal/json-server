@@ -28,7 +28,7 @@
   },
    "change-flight": {
         "flights": {
-            "success": "true",
+            "success": true,
             "state": "flights",
             "data": [
                 {
@@ -44,7 +44,7 @@
             ]
         },
         "tourists": {
-            "success": "true",
+            "success": true,
             "state": "tourists",
             "data": [
                 {
@@ -70,7 +70,7 @@
             ]
         },
         "dates": {
-            "success": "true",
+            "success": true,
             "state": "dates",
             "data": {
                 "flight-dates": ["2019-11-24", "2019-11-27", "2019-11-28", "2019-11-29", "2019-11-30"],
