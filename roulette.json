@@ -1,0 +1,20 @@
+{
+  "roulette-meal": {
+    "discount": "",
+    "flight": "PQ741",
+    "fromTo": "IEV-BAR",
+    "giftName": "BEEF ROLL",
+    "id": 5,
+    "userName": "MARIANA TKACHENKO",
+    "type": "meal"
+  },
+  "roulette-discount": {
+    "discount": "ecologist.avtomatizator@gmail.com",
+    "flight": "PQ881",
+    "fromTo": "IEV-VAR",
+    "giftName": "-5% NEXT BOOKING DISCOUNT",
+    "id": 9,
+    "userName": "Dmytro Oliinyk",
+    "type": "meal"
+  }
+}
