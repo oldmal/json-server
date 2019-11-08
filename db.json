@@ -2,7 +2,7 @@
     "flights": {
         "success": true,
         "state": "flights",
-        "is-related": false,
+        "is_related": false,
         "data": [
             {
                 "id": "e9-a7w",
@@ -19,23 +19,23 @@
         "state": "tourists",
         "data": [
             {
-                "pax-idx": "0",
+                "pax_idx": "0",
                 "tourist": "Dmytro Oliinyk + Infant Oliinyk"
             },
             {
-                "pax-idx": "1",
+                "pax_idx": "1",
                 "tourist": "Vasia Pupkin"
             },
             {
-                "pax-idx": "2",
+                "pax_idx": "2",
                 "tourist": "John Wayne"
             },
             {
-                "pax-idx": "3",
+                "pax_idx": "3",
                 "tourist": "Kim Kardashian"
             },
             {
-                "pax-idx": "4",
+                "pax_idx": "4",
                 "tourist": "Ozzy Osbourne"
             }
         ]
@@ -44,7 +44,7 @@
         "success": true,
         "state": "dates",
         "data": {
-            "flight-dates": ["2019-11-24", "2019-11-27", "2019-11-28", "2019-11-29", "2019-11-30"],
+            "flight_dates": ["2019-11-24", "2019-11-27", "2019-11-28", "2019-11-29", "2019-11-30"],
             "related-dates": [
                 {
                     "departure": "2019-11-14",
