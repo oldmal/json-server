@@ -6,11 +6,13 @@
         "data": [
             {
                 "id": "e9-a7w",
-                "flight": "Туда (14 июн. вт) KBP - NYC (QP734)"
+                "flight": "Туда (14 июн. вт) KBP - NYC (QP734)",
+                "direction": "departure"
             },
             {
                 "id": "r7-33d",
-                "flight": "Обратно (24 июн. вт) KBP - NYC (QP734)"
+                "flight": "Обратно (24 июн. вт) KBP - NYC (QP734)",
+                "direction": "return"
             }
         ]
     },
