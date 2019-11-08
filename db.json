@@ -1,7 +1,8 @@
 {
     "flights": {
         "success": true,
-        "state": "flights",
+        "state": "query",
+        "substate": "flights",
         "is_related": false,
         "data": [
             {
@@ -18,7 +19,8 @@
     },
     "tourists": {
         "success": true,
-        "state": "tourists",
+        "state": "query",
+        "substate": "tourists",
         "data": [
             {
                 "pax_idx": "0",
@@ -44,7 +46,8 @@
     },
     "dates": {
         "success": true,
-        "state": "dates",
+        "state": "query",
+        "substate": "dates",
         "data": {
             "flight_dates": ["2019-11-24", "2019-11-27", "2019-11-28", "2019-11-29", "2019-11-30"],
             "related-dates": [
