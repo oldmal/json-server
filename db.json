@@ -1,8 +1,8 @@
 {
-   "flights": {
+    "flights": {
         "success": true,
         "state": "flights",
-        "is-related": "false",
+        "is-related": false,
         "data": [
             {
                 "id": "e9-a7w",
@@ -10,7 +10,7 @@
             },
             {
                 "id": "r7-33d",
-                "flight": "Обратно (24 июн. вт) KBP - NYC (QP734)"
+                "flight": "Обратно (24 июн. вт) KBP - NYC (QP734)",
             }
         ]
     },
