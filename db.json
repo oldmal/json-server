@@ -1,6 +1,6 @@
 {
     "flights": {
-        "success": true,
+        "success": false,
         "state": "query",
         "substate": "flights",
         "is_related": true,
