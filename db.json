@@ -5,12 +5,12 @@
         "data": [
             {
                 "id": "e9-a7w",
-                "fligth": "Туда (14 июн. вт) KBP - NYC (QP734)",
+                "flight": "Туда (14 июн. вт) KBP - NYC (QP734)",
                 "is-related": "false"
             },
             {
                 "id": "r7-33d",
-                "fligth": "Обратно (24 июн. вт) KBP - NYC (QP734)",
+                "flight": "Обратно (24 июн. вт) KBP - NYC (QP734)",
                 "is-related": "false"
             }
         ]
