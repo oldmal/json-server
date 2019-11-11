@@ -3,7 +3,7 @@
         "success": true,
         "state": "query",
         "substate": "flights",
-        "is_related": true,
+        "is_related": false,
         "data": [
             {
                 "id": "e9-a7w",
