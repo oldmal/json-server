@@ -7,13 +7,23 @@
         "data": [
             {
                 "id": "e9-a7w",
-                "flight": "Туда (14 июн. вт) KBP - NYC (QP734)",
-                "direction": "departure"
+                "flight": "QP734",
+                "direction": "departure",
+                "date": "2019-11-14",
+                "from_airport_code": "KBP",
+                "from_city_name": "Киев",
+                "to_airport_code": "BCN",
+                "to_city_name": "Барселона"
             },
             {
                 "id": "r7-33d",
-                "flight": "Обратно (24 июн. вт) KBP - NYC (QP734)",
-                "direction": "return"
+                "flight": "QZ434",
+                "direction": "return",
+                "date": "2019-12-17",
+                "from_airport_code": "BCN",
+                "from_city_name": "Барселона",
+                "to_airport_code": "KBP",
+                "to_city_name": "Киев"
             }
         ]
     },
